@@ -33,4 +33,4 @@ To view the website, simply open the `index.html` file in a web browser. Alterna
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-Created by [Jasper](https://jaspermunene.netlify.app/).
+Created by [Jasper](https://jaspermunene.github.io/hotel/).
